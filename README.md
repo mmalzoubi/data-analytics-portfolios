@@ -3,7 +3,7 @@
 A collection of data analytics and machine learning projects demonstrating end-to-end workflows: data exploration, visualization, modeling, and interpretation.
 
 ## Author
-Sami Alzoubi — Data Analytics & AI Instructor
+Mahd Alzoubi — Data Analytics & AI Instructor
 
 ## Projects
 
